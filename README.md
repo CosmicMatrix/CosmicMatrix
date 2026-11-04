@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CosmicMatrix/blob/main/space.gif?raw=true" alt="Header" width="100%" />
+  <img src="https://github.com" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">Привет, я Игорь! 👋</h1>
@@ -28,14 +28,22 @@
 
 ### 📊 Статистика профиля
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=CosmicMatrix&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CosmicMatrix&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicMatrix&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img height="195" src="https://github-stats-extended.vercel.app/api?username=CosmicMatrix&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img height="195" src="https://vercel.app" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <br />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicMatrix&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,3 +58,4 @@
 <p align="center">
   <sub>«Talk is cheap. Show me the code.» — Linus Torvalds</sub>
 </p>
+
