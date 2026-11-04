@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CosmicMatrix/CosmicMatrix/blob/main/gojo.gif?raw=true" alt="Header" width="100%" />
+  <img src="https://github.com/CosmicMatrix/CosmicMatrix/blob/main/satoru-gojo.gif?raw=true" alt="Header" width="554" height="995" />
 </p>
 
 <h1 align="center">Привет, я Игорь! 👋</h1>
