@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com" alt="Header" width="100%" />
+  [<img src="https://github.com/CosmicMatrix/CosmicMatrix/blob/main/space.gif?raw=true" alt="Header" width="100%" />]
 </p>
 
 <h1 align="center">Привет, я Игорь! 👋</h1>
